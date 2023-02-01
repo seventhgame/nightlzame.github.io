@@ -1,29 +1,40 @@
 
 {
     "xiaofeng606": {
-        "url": "https://www.58jili.com/?pid=xl007",
+        "url": "https://www.49jili.com/?pid=pagcor777",
         "isToPage": true,
         "adjustParams": [
             {
                 "name": "deposit-success",
-                "value": "5hk3uh"
+                "value": "8ozjol"
             },
             {
                 "name": "signup-success",
-                "value": "7g22qk"
+                "value": "eghwz2"
             },
             {
                 "name": "first-deposit-success",
-                "value": "b9mfjq"
+                "value": "hzukyr"
             },
             {
-                "name": "adj_complete_registration",
-                "value": "i5uq6s"
+                "name": "first-recharge-success",
+                "value": "wxsvo5"
             },
             {
-                "name": "adj_purchase1",
-                "value": "sn4uvq"
+                "name": "register-success",
+                "value": "a033mw"
             }
+            ,
+            {
+                "name": "register",
+                "value": "djc0ii"
+            }
+            ,
+            {
+                "name": "firstDeposit",
+                "value": "24mnsg"
+            }
+          
         ]
     },
     "xiaofeng607": {

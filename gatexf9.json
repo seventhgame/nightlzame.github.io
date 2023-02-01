@@ -53,7 +53,7 @@
     },
     "xiaofeng817": {
         "url": "https://www.bwinone8.com/?pid=pogo0121",
-        "isToPage": true,
+        "isToPage": false,
         "adjustParams": [
             {
                 "name": "deposit-success",

@@ -1,1 +1,133 @@
 
+{
+    "xiaofeng606": {
+        "url": "https://www.58jili.com/?pid=xl007",
+        "isToPage": true,
+        "adjustParams": [
+            {
+                "name": "deposit-success",
+                "value": "5hk3uh"
+            },
+            {
+                "name": "signup-success",
+                "value": "7g22qk"
+            },
+            {
+                "name": "first-deposit-success",
+                "value": "b9mfjq"
+            },
+            {
+                "name": "adj_complete_registration",
+                "value": "i5uq6s"
+            },
+            {
+                "name": "adj_purchase1",
+                "value": "sn4uvq"
+            }
+        ]
+    },
+    "xiaofeng607": {
+        "url": "https://www.49jili.com/?pid=gx600",
+        "isToPage": true,
+        "adjustParams": [
+            {
+                "name": "deposit-success",
+                "value": "a1dz9u"
+            },
+            {
+                "name": "signup-success",
+                "value": "kjky51"
+            },
+            {
+                "name": "first-deposit-success",
+                "value": "uix4ny"
+            },
+            {
+                "name": "adj_complete_registration",
+                "value": "2yav33"
+            },
+            {
+                "name": "adj_purchase1",
+                "value": "m2aadj"
+            }
+        ]
+    },
+    "xiaofeng608": {
+        "url": "https://www.bwinone8.com/?pid=pogo0121",
+        "isToPage": true,
+        "adjustParams": [
+            {
+                "name": "deposit-success",
+                "value": "wl1bzz"
+            },
+            {
+                "name": "signup-success",
+                "value": "ovu53n"
+            },
+            {
+                "name": "first-deposit-success",
+                "value": "udcdg9"
+            },
+            {
+                "name": "adj_complete_registration",
+                "value": "e0vof8"
+            },
+            {
+                "name": "adj_purchase1",
+                "value": "aeccwg"
+            }
+        ]
+    },
+    "xiaofeng609": {
+        "url": "https://www.jiliasia.com/?pid=50jilivip",
+        "isToPage": false,
+        "adjustParams": [
+            {
+                "name": "deposit-success",
+                "value": "69xkx7"
+            },
+            {
+                "name": "signup-success",
+                "value": "42esu5"
+            },
+            {
+                "name": "first-deposit-success",
+                "value": "7u4d00"
+            },
+            {
+                "name": "adj_complete_registration",
+                "value": "t1v3t4"
+            },
+            {
+                "name": "adj_purchase1",
+                "value": "6wl7cs"
+            }
+        ]
+    },
+    "xiaofeng610": {
+        "url": "https://www.jiliasia.com/?pid=50jilivip",
+        "isToPage": false,
+        "adjustParams": [
+            {
+                "name": "deposit-success",
+                "value": "y6d1u5"
+            },
+            {
+                "name": "signup-success",
+                "value": "j96ule"
+            },
+            {
+                "name": "first-deposit-success",
+                "value": "xd2sil"
+            },
+            {
+                "name": "adj_complete_registration",
+                "value": "x746hb"
+            },
+            {
+                "name": "adj_purchase1",
+                "value": "w619wr"
+            }
+        ]
+    }
+}

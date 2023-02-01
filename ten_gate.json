@@ -23,13 +23,11 @@
             {
                 "name": "register-success",
                 "value": "a033mw"
-            }
-            ,
+            },
             {
                 "name": "register",
                 "value": "djc0ii"
-            }
-            ,
+            },
             {
                 "name": "firstDeposit",
                 "value": "24mnsg"
@@ -41,25 +39,33 @@
         "url": "https://www.49jili.com/?pid=gx600",
         "isToPage": true,
         "adjustParams": [
-            {
+           {
                 "name": "deposit-success",
-                "value": "a1dz9u"
+                "value": "z3zmef"
             },
             {
                 "name": "signup-success",
-                "value": "kjky51"
+                "value": "nyvu98"
             },
             {
                 "name": "first-deposit-success",
-                "value": "uix4ny"
+                "value": "jhb8o1"
             },
             {
-                "name": "adj_complete_registration",
-                "value": "2yav33"
+                "name": "first-recharge-success",
+                "value": "wuu690"
             },
             {
-                "name": "adj_purchase1",
-                "value": "m2aadj"
+                "name": "register-success",
+                "value": "a77ptz"
+            },
+            {
+                "name": "register",
+                "value": "kp0xzn"
+            },
+            {
+                "name": "firstDeposit",
+                "value": "mvidid"
             }
         ]
     },
@@ -69,23 +75,31 @@
         "adjustParams": [
             {
                 "name": "deposit-success",
-                "value": "wl1bzz"
+                "value": "30qwky"
             },
             {
                 "name": "signup-success",
-                "value": "ovu53n"
+                "value": "ua9ivd"
             },
             {
                 "name": "first-deposit-success",
-                "value": "udcdg9"
+                "value": "8hxpsa"
             },
             {
-                "name": "adj_complete_registration",
-                "value": "e0vof8"
+                "name": "first-recharge-success",
+                "value": "33018v"
             },
             {
-                "name": "adj_purchase1",
-                "value": "aeccwg"
+                "name": "register-success",
+                "value": "n3zkc3"
+            },
+            {
+                "name": "register",
+                "value": "glrgq5"
+            },
+            {
+                "name": "firstDeposit",
+                "value": "smhrpy"
             }
         ]
     },
@@ -95,23 +109,31 @@
         "adjustParams": [
             {
                 "name": "deposit-success",
-                "value": "69xkx7"
+                "value": "5zi8ff"
             },
             {
                 "name": "signup-success",
-                "value": "42esu5"
+                "value": "wzzqcv"
             },
             {
                 "name": "first-deposit-success",
-                "value": "7u4d00"
+                "value": "nwss7u"
             },
             {
-                "name": "adj_complete_registration",
-                "value": "t1v3t4"
+                "name": "first-recharge-success",
+                "value": "gu509l"
             },
             {
-                "name": "adj_purchase1",
-                "value": "6wl7cs"
+                "name": "register-success",
+                "value": "q3zpy6"
+            },
+            {
+                "name": "register",
+                "value": "ghpo5c"
+            },
+            {
+                "name": "firstDeposit",
+                "value": "ndt0sg"
             }
         ]
     },
@@ -121,23 +143,31 @@
         "adjustParams": [
             {
                 "name": "deposit-success",
-                "value": "y6d1u5"
+                "value": "smp91g"
             },
             {
                 "name": "signup-success",
-                "value": "j96ule"
+                "value": "f7mrb5"
             },
             {
                 "name": "first-deposit-success",
-                "value": "xd2sil"
+                "value": "a4gyyr"
             },
             {
-                "name": "adj_complete_registration",
-                "value": "x746hb"
+                "name": "first-recharge-success",
+                "value": "mvkojv"
             },
             {
-                "name": "adj_purchase1",
-                "value": "w619wr"
+                "name": "register-success",
+                "value": "grtxyw"
+            },
+            {
+                "name": "register",
+                "value": "j45maj"
+            },
+            {
+                "name": "firstDeposit",
+                "value": "arqod1"
             }
         ]
     }

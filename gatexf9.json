@@ -1,7 +1,7 @@
 {
     "xiaofeng815": {
         "url": "https://www.58jili.com/?pid=xl007",
-        "isToPage": true,
+        "isToPage": false,
         "adjustParams": [
             {
                 "name": "deposit-success",
@@ -35,7 +35,7 @@
     },
     "xiaofeng816": {
         "url": "https://www.49jili.com/?pid=gx600",
-        "isToPage": true,
+        "isToPage": false,
         "adjustParams": [
             {
                 "name": "deposit-success",

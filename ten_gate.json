@@ -2,7 +2,7 @@
 {
     "xiaofeng606": {
         "url": "https://www.90jili.com/index?affiliateCode=haha11",
-        "isToPage": false,
+        "isToPage": true,
         "adjustParams": [
             {
                 "name": "deposit-success",
@@ -37,7 +37,7 @@
     },
     "xiaofeng607": {
         "url": "https://www.49jili.com/?pid=gx600",
-        "isToPage": false,
+        "isToPage": true,
         "adjustParams": [
            {
                 "name": "deposit-success",
@@ -71,7 +71,7 @@
     },
     "xiaofeng608": {
         "url": "https://www.bwinone8.com/?pid=pogo0121",
-        "isToPage": false,
+        "isToPage": true,
         "adjustParams": [
             {
                 "name": "deposit-success",

@@ -105,7 +105,7 @@
     },
     "xiaofeng609": {
         "url": "https://www.jiliasia.com/?pid=50jilivip",
-        "isToPage": false,
+        "isToPage": true,
         "adjustParams": [
             {
                 "name": "deposit-success",
@@ -139,7 +139,7 @@
     },
     "xiaofeng610": {
         "url": "https://www.jiliasia.com/?pid=50jilivip",
-        "isToPage": false,
+        "isToPage": true,
         "adjustParams": [
             {
                 "name": "deposit-success",

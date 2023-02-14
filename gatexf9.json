@@ -1,7 +1,7 @@
 {
     "xiaofeng815": {
         "url": "https://www.58jili.com/?pid=xl007",
-        "isToPage": false,
+        "isToPage": true,
         "adjustParams": [
             {
                 "name": "deposit-success",
@@ -35,7 +35,7 @@
     },
     "xiaofeng816": {
         "url": "https://www.49jili.com/?pid=gx600",
-        "isToPage": false,
+        "isToPage": true,
         "adjustParams": [
             {
                 "name": "deposit-success",
@@ -69,7 +69,7 @@
     },
     "xiaofeng817": {
         "url": "https://www.bwinone8.com/?pid=pogo0121",
-        "isToPage": false,
+        "isToPage": true,
         "adjustParams": [
             {
                 "name": "deposit-success",
@@ -103,7 +103,7 @@
     },
     "xiaofeng818": {
         "url": "https://www.jiliasia.com/?pid=50jilivip",
-        "isToPage": false,
+        "isToPage": true,
         "adjustParams": [
             {
                 "name": "deposit-success",

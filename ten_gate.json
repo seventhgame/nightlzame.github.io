@@ -37,7 +37,7 @@
     },
     "xiaofeng607": {
         "url": "https://www.58jili.com/?pid=xl027",
-        "isToPage": false,
+        "isToPage": true,
         "adjustParams": [
            {
                 "name": "deposit-success",
